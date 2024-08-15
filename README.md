@@ -1,0 +1,2 @@
+# Diebold-Yilmaz-Model-and-Barun-k-Asymmetric-Spillover-Model-Asymmetric-Volatility-Spillover-Effects-
+This project focuses on examining the asymmetric volatility spillover effects between the Shanghai crude oil futures market and stock markets (both domestic and international) from 2018 to 2023.  The study uses innovative spillover measures to capture time-varying asymmetry in the relationship between oil and stock markets.
