@@ -36,6 +36,14 @@ This project focuses on examining the asymmetric volatility spillover effects be
 - **Asymmetry in Spillovers:** The study finds that bad volatility spillovers dominate good ones, indicating a stronger market reaction to negative shocks.
 - **Market Sensitivity:** The Shanghai crude oil futures market is highly sensitive to international market dynamics, especially during global events like the COVID-19 pandemic and geopolitical tensions.
 
+## Contributing
+
+Contributions and suggestions are welcome. Please submit a Pull Request or report issues.
+
+## Contact
+
+- [GitHub Profile](https://github.com/cattwong)
+- Email: wwenxinwang@outlook.com
 ---
 
 **项目标题**: 上海原油期货与股票市场不对称波动溢出效应研究
